@@ -1,4 +1,6 @@
 Mercury
 Venus
 Mars
+pluto
+neptune
 #TODO Add more planets
