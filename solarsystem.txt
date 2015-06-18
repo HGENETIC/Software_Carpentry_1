@@ -4,5 +4,4 @@ Venus
 Mars
 pluto
 neptune
-moon
 #TODO Add more planets
